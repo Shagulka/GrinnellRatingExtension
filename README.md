@@ -33,16 +33,10 @@ instructors.
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 15px;">
-  <div style="text-align: center;">
-    <img src="screenshots/without_extension.png" width="400" alt="without extension">
-    <div style="margin-top: 10px; font-weight: bold;">Without Extension</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="screenshots/with_extension.png" width="400" alt="with extension">
-    <div style="margin-top: 10px; font-weight: bold;">With Extension</div>
-  </div>
-</div>
+- Without extension:
+![without extension](screenshots/without_extension.png)
+- With extension:
+![with extension](screenshots/with_extension.png)
 
 ## Database
 
