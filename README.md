@@ -2,7 +2,11 @@
 
 **I strongly believe that professor ratings should not be the sole factor in determining the quality of a course or instructor. I encourage students to use this tool as a supplement to other resources and to consider the limitations of such ratings. Please be respectful and considerate when using this tool.**
 
-**Note: I do not promote the use of this extension without understanding the implications of using it. This extension is not officially endorsed by Grinnell College. Use at your own risk. Database may contain errors or outdated information.**
+**I do not promote the use of this extension without understanding the implications of using it. This extension is not officially endorsed by Grinnell College. Use at your own risk. Database may contain errors or outdated information.**
+
+_To be honest, I created this extension for fun and to learn more about web scraping and Chrome extensions. I do not intend to promote or encourage the use of this extension. But if you find it useful, feel free to use it._
+
+
 
 ## Description
 
