@@ -18,7 +18,7 @@ class Professor:
         self.RMP_name = RMP_name
 
     def __str__(self):
-        return f"Name: {self.name}\nRating: {self.rating}\nNumber of ratings: {self.num_ratings}\nWould take again: {self.would_take_again}\nDifficulty: {self.difficulty}\nLink: {self.link}"
+        return f"Name: {self.name}\nRating: {self.rating}\nNumber of ratings: {self.num_ratings}\nWould take again: {self.would_take_again}\nDifficulty: {self.difficulty}\nLink: {self.link}\nRMP Name: {self.RMP_name}"
 
 
 def get_professor_info(prof_name):
@@ -118,7 +118,7 @@ def get_all_professors_info(names):
 def generate_json(professors):
     json = dict()
     for prof in professors:
-        print(prof)
+        print(prof.name, prof.RMP_name)
         correct = input('is this correct? (y/n)')
         if correct == 'y':
             json[prof.name] = {

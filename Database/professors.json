@@ -1,0 +1,1332 @@
+{
+  "Paula+Smith": {
+    "rating": 4.6,
+    "num_ratings": 16.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=601000"
+  },
+  "Jordan+Reznick": {
+    "rating": 3.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2954516"
+  },
+  "Molly+M.+MacInnes": {
+    "rating": 3.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2974341"
+  },
+  "John+Whittaker": {
+    "rating": 4.2,
+    "num_ratings": 13.0,
+    "would_take_again": -1.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=148428"
+  },
+  "Jerod+Weinman": {
+    "rating": 3.3,
+    "num_ratings": 26.0,
+    "would_take_again": 45.4545,
+    "difficulty": 4.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1349052"
+  },
+  "Clara+M.+Montague": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2963066"
+  },
+  "Paul+Tjossem": {
+    "rating": 4.9,
+    "num_ratings": 15.0,
+    "would_take_again": 85.7143,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=296918"
+  },
+  "Stephanie+Jones": {
+    "rating": 5.0,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2500206"
+  },
+  "Fernanda+M.+Eliott": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2665203"
+  },
+  "Matthew+Kluber": {
+    "rating": 4.3,
+    "num_ratings": 11.0,
+    "would_take_again": 60.0,
+    "difficulty": 1.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=394570"
+  },
+  "Sara+C.+Francisco": {
+    "rating": 3.1,
+    "num_ratings": 9.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2824287"
+  },
+  "Justin+Thomas": {
+    "rating": 4.3,
+    "num_ratings": 10.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1043995"
+  },
+  "Beiyin+Deng": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=3006958"
+  },
+  "David+G.+Campbell": {
+    "rating": 3.7,
+    "num_ratings": 21.0,
+    "would_take_again": 80.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=103107"
+  },
+  "Dawn+Nye": {
+    "rating": 3.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2874832"
+  },
+  "Eun+Young+Seong": {
+    "rating": 4.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2981149"
+  },
+  "Caleb+Iyer+Elfenbein": {
+    "rating": 4.5,
+    "num_ratings": 5.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.2,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1492089"
+  },
+  "Julian+Rios+Acuna": {
+    "rating": 4.4,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2979001"
+  },
+  "John+Fennell": {
+    "rating": 4.8,
+    "num_ratings": 31.0,
+    "would_take_again": 77.7778,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=181028"
+  },
+  "Maria+Tapias": {
+    "rating": 3.6,
+    "num_ratings": 19.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=191589"
+  },
+  "Dong+Yang": {
+    "rating": 4.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2882090"
+  },
+  "Christy+Hazel": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2970158"
+  },
+  "Jonathan+M.+Wells": {
+    "rating": 5.0,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2900429"
+  },
+  "Michael+Mackenzie": {
+    "rating": 4.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2769246"
+  },
+  "Makeba+Lavan": {
+    "rating": 3.6,
+    "num_ratings": 5.0,
+    "would_take_again": 75.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2784919"
+  },
+  "Carolyn+Jacobson": {
+    "rating": 4.6,
+    "num_ratings": 14.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1530108"
+  },
+  "Francisca+Escoriza-Gallardo": {
+    "rating": 4.6,
+    "num_ratings": 6.0,
+    "would_take_again": 83.3333,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2747945"
+  },
+  "Andrew+Kaufman": {
+    "rating": 4.1,
+    "num_ratings": 7.0,
+    "would_take_again": 60.0,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1374705"
+  },
+  "Peter+Hanson": {
+    "rating": 5.0,
+    "num_ratings": 10.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2203706"
+  },
+  "Shannon+Hinsa-Leasure": {
+    "rating": 3.0,
+    "num_ratings": 14.0,
+    "would_take_again": 50.0,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1353473"
+  },
+  "Marc+Chamberland": {
+    "rating": 5.0,
+    "num_ratings": 55.0,
+    "would_take_again": 85.7143,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=137074"
+  },
+  "J+Pablo+Silva": {
+    "rating": 4.5,
+    "num_ratings": 41.0,
+    "would_take_again": 84.6154,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=249987"
+  },
+  "Jenny+Anger": {
+    "rating": 4.3,
+    "num_ratings": 38.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=148593"
+  },
+  "Jennifer+Snook": {
+    "rating": 4.3,
+    "num_ratings": 14.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2321612"
+  },
+  "Mark+Levandoski": {
+    "rating": 2.9,
+    "num_ratings": 22.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=237570"
+  },
+  "Leif+Brottem": {
+    "rating": 5.0,
+    "num_ratings": 6.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2126503"
+  },
+  "Jenny+Kenkel": {
+    "rating": 3.8,
+    "num_ratings": 3.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2962686"
+  },
+  "Joshua+Ruiter": {
+    "rating": 4.3,
+    "num_ratings": 10.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2946818"
+  },
+  "Fredo+Rivera": {
+    "rating": 4.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2540587"
+  },
+  "Craig+Quintero": {
+    "rating": 4.0,
+    "num_ratings": 7.0,
+    "would_take_again": 75.0,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1353553"
+  },
+  "Andreas+Jozwiak": {
+    "rating": 3.3,
+    "num_ratings": 6.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2886615"
+  },
+  "Keith+Brouhle": {
+    "rating": 3.0,
+    "num_ratings": 48.0,
+    "would_take_again": 29.4118,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=771223"
+  },
+  "Mr.+Jeremy+D.+Chen": {
+    "rating": 4.8,
+    "num_ratings": 10.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1595486"
+  },
+  "Liz+Queathem": {
+    "rating": 4.6,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2008029"
+  },
+  "Mr.+Eric+A.+Autry": {
+    "rating": 4.1,
+    "num_ratings": 8.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2814472"
+  },
+  "Priscilla+F.+Jimenez+Pazmino": {
+    "rating": 1.4,
+    "num_ratings": 21.0,
+    "would_take_again": 50.0,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2733540"
+  },
+  "Dr.+Jee-Weon+Cha": {
+    "rating": 4.4,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1754754"
+  },
+  "David+Harrison": {
+    "rating": 4.8,
+    "num_ratings": 37.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=180734"
+  },
+  "Corasi+Ortiz": {
+    "rating": 4.7,
+    "num_ratings": 10.0,
+    "would_take_again": 87.5,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1858997"
+  },
+  "Edward+Cohn": {
+    "rating": 4.5,
+    "num_ratings": 19.0,
+    "would_take_again": 88.8889,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1046565"
+  },
+  "Ms.+Eleanor+R.+Glewwe": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 1.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2594907"
+  },
+  "Susan+Ferguson": {
+    "rating": 3.9,
+    "num_ratings": 30.0,
+    "would_take_again": 75.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=226645"
+  },
+  "Jeff+Jonkman": {
+    "rating": 2.3,
+    "num_ratings": 20.0,
+    "would_take_again": 18.1818,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1489688"
+  },
+  "Nicole+Eikmeier": {
+    "rating": 4.6,
+    "num_ratings": 9.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2526467"
+  },
+  "Erin+Howell-Gritsch": {
+    "rating": 4.3,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=606132"
+  },
+  "Joseph+Mileti": {
+    "rating": 5.0,
+    "num_ratings": 47.0,
+    "would_take_again": 85.7143,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=508930"
+  },
+  "Abhinaba+Nandy": {
+    "rating": 3.3,
+    "num_ratings": 8.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2844139"
+  },
+  "Lakesia+Johnson": {
+    "rating": 4.6,
+    "num_ratings": 12.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1276605"
+  },
+  "Sherif+M.+Abdelkarim": {
+    "rating": 5.0,
+    "num_ratings": 6.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2715756"
+  },
+  "Leslie+Gregg-Jolly": {
+    "rating": 3.3,
+    "num_ratings": 14.0,
+    "would_take_again": 66.6667,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=389529"
+  },
+  "Travis+Hattery": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=3011293"
+  },
+  "Dr.+Vida+Praitis": {
+    "rating": 3.9,
+    "num_ratings": 27.0,
+    "would_take_again": 61.5385,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=251642"
+  },
+  "Timothy+Dobe": {
+    "rating": 3.8,
+    "num_ratings": 22.0,
+    "would_take_again": 66.6667,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=685485"
+  },
+  "Danielle+N.+Lussier": {
+    "rating": 4.1,
+    "num_ratings": 12.0,
+    "would_take_again": 70.0,
+    "difficulty": 3.2,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1765719"
+  },
+  "Tamara+McGavock": {
+    "rating": 3.5,
+    "num_ratings": 21.0,
+    "would_take_again": 61.1111,
+    "difficulty": 4.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2166783"
+  },
+  "Keisuke+Hasegawa": {
+    "rating": 5.0,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2255423"
+  },
+  "Paul+Hutchison": {
+    "rating": 5.0,
+    "num_ratings": 14.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1238200"
+  },
+  "Leo+Rodriguez": {
+    "rating": 4.5,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1889017"
+  },
+  "Elias+G.+Saba": {
+    "rating": 4.0,
+    "num_ratings": 15.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2418241"
+  },
+  "Dustin+Dixon": {
+    "rating": 5.0,
+    "num_ratings": 13.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2477072"
+  },
+  "Adey+Almohsen": {
+    "rating": 5.0,
+    "num_ratings": 3.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2760408"
+  },
+  "Gabriel+Espinosa": {
+    "rating": 3.5,
+    "num_ratings": 2.0,
+    "would_take_again": -1.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1009712"
+  },
+  "Tess+Kulstad": {
+    "rating": 3.9,
+    "num_ratings": 23.0,
+    "would_take_again": 72.2222,
+    "difficulty": 2.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2021704"
+  },
+  "Mark+Laver": {
+    "rating": 4.8,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2117470"
+  },
+  "Anna+H.+Olsen": {
+    "rating": 1.9,
+    "num_ratings": 20.0,
+    "would_take_again": 66.6667,
+    "difficulty": 4.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2732300"
+  },
+  "Barbara+Trish": {
+    "rating": 4.1,
+    "num_ratings": 35.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=70452"
+  },
+  "Jennifer+Shook": {
+    "rating": 4.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 1.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2339061"
+  },
+  "Michael+Guenther": {
+    "rating": 4.9,
+    "num_ratings": 10.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1680692"
+  },
+  "Cori+Jakubiak": {
+    "rating": 5.0,
+    "num_ratings": 14.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1936215"
+  },
+  "Alex+Aldridge": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 1.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2982186"
+  },
+  "Eric+L.+McIntyre": {
+    "rating": 4.3,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=536226"
+  },
+  "Tetyana+Dzyadevych": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2968379"
+  },
+  "Nancy+Rempel-Clower": {
+    "rating": 4.5,
+    "num_ratings": 26.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182214"
+  },
+  "Tony+Perman": {
+    "rating": 4.5,
+    "num_ratings": 7.0,
+    "would_take_again": 75.0,
+    "difficulty": 1.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1750528"
+  },
+  "Laura+Sinnett": {
+    "rating": 3.9,
+    "num_ratings": 33.0,
+    "would_take_again": 57.1429,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=235769"
+  },
+  "Jules+Bacon": {
+    "rating": 4.4,
+    "num_ratings": 7.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2685000"
+  },
+  "Owen+Kohl": {
+    "rating": 5.0,
+    "num_ratings": 9.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2859581"
+  },
+  "Raquel+Greene": {
+    "rating": 3.5,
+    "num_ratings": 24.0,
+    "would_take_again": 87.5,
+    "difficulty": 1.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=137109"
+  },
+  "Collin+Nolte": {
+    "rating": 5.0,
+    "num_ratings": 3.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2943372"
+  },
+  "Stephen+Andrews": {
+    "rating": 3.8,
+    "num_ratings": 38.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=199904"
+  },
+  "Sharon+Quinsaat": {
+    "rating": 5.1,
+    "num_ratings": 15.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2253777"
+  },
+  "Elaine+Marzluff": {
+    "rating": 4.3,
+    "num_ratings": 16.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182212"
+  },
+  "Mervat+Youssef": {
+    "rating": 3.9,
+    "num_ratings": 16.0,
+    "would_take_again": 50.0,
+    "difficulty": 4.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1385688"
+  },
+  "Jennifer+Paulhus": {
+    "rating": 4.1,
+    "num_ratings": 17.0,
+    "would_take_again": 75.0,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1666846"
+  },
+  "Joshua+C.+Sandquist": {
+    "rating": 4.4,
+    "num_ratings": 9.0,
+    "would_take_again": 75.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1872511"
+  },
+  "Philippe+Moisan": {
+    "rating": 4.6,
+    "num_ratings": 27.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=181651"
+  },
+  "Darrius+D.+Hills": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2873939"
+  },
+  "Santiago+J.+Sanchez": {
+    "rating": 4.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2775740"
+  },
+  "Eric+C.+Ohrn": {
+    "rating": 4.1,
+    "num_ratings": 9.0,
+    "would_take_again": 83.3333,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2088147"
+  },
+  "Barry+Driscoll": {
+    "rating": 4.8,
+    "num_ratings": 6.0,
+    "would_take_again": 66.6667,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2295953"
+  },
+  "Xavier+Escandell": {
+    "rating": 4.9,
+    "num_ratings": 7.0,
+    "would_take_again": 87.5,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2500204"
+  },
+  "Heriberto+Hernandez": {
+    "rating": 3.6,
+    "num_ratings": 13.0,
+    "would_take_again": 60.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1561625"
+  },
+  "Elizabeth+Trimmer": {
+    "rating": 4.8,
+    "num_ratings": 20.0,
+    "would_take_again": 88.8889,
+    "difficulty": 4.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182204"
+  },
+  "Jeffrey+D.+Blanchard": {
+    "rating": 4.3,
+    "num_ratings": 14.0,
+    "would_take_again": 87.5,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1771286"
+  },
+  "Hsin-Hui+Liu": {
+    "rating": 3.0,
+    "num_ratings": 17.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=374019"
+  },
+  "Joseph+Neisser": {
+    "rating": 4.3,
+    "num_ratings": 35.0,
+    "would_take_again": 92.3077,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=273651"
+  },
+  "Yoel+Castillo+Botello": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2554807"
+  },
+  "Todd+Armstrong": {
+    "rating": 5.0,
+    "num_ratings": 32.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=133219"
+  },
+  "Monessa+Cummins": {
+    "rating": 5.0,
+    "num_ratings": 46.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=209108"
+  },
+  "Clark+Lindgren": {
+    "rating": 4.9,
+    "num_ratings": 20.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182202"
+  },
+  "Tamara+M.+Beauboeuf": {
+    "rating": 4.3,
+    "num_ratings": 10.0,
+    "would_take_again": 80.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2552883"
+  },
+  "Catherine+Chou": {
+    "rating": 5.0,
+    "num_ratings": 18.0,
+    "would_take_again": 94.1176,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2358819"
+  },
+  "Debdeep+Bhattacharya": {
+    "rating": 2.0,
+    "num_ratings": 1.0,
+    "would_take_again": -1.0,
+    "difficulty": 5.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2959804"
+  },
+  "Shanshan+Rodriguez": {
+    "rating": 5.0,
+    "num_ratings": 13.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2401608"
+  },
+  "Claudia+Anderson": {
+    "rating": 3.5,
+    "num_ratings": 3.0,
+    "would_take_again": -1.0,
+    "difficulty": 2.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=857167"
+  },
+  "Meredith+M.+Paker": {
+    "rating": 5.0,
+    "num_ratings": 3.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2839522"
+  },
+  "Ralph+Savarese": {
+    "rating": 4.2,
+    "num_ratings": 28.0,
+    "would_take_again": 85.7143,
+    "difficulty": 3.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=147238"
+  },
+  "Ryan+Miller": {
+    "rating": 4.0,
+    "num_ratings": 5.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2836548"
+  },
+  "Karla+Erickson": {
+    "rating": 4.9,
+    "num_ratings": 30.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=466320"
+  },
+  "Qiaomei+Tang": {
+    "rating": 4.0,
+    "num_ratings": 3.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2503491"
+  },
+  "Yvette+Aparicio": {
+    "rating": 3.0,
+    "num_ratings": 43.0,
+    "would_take_again": 44.4444,
+    "difficulty": 4.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=478715"
+  },
+  "W.+Joseph+Cummins": {
+    "rating": 4.5,
+    "num_ratings": 29.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=204079"
+  },
+  "Albert+Lacson": {
+    "rating": 3.5,
+    "num_ratings": 26.0,
+    "would_take_again": 88.8889,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1238195"
+  },
+  "Angelo+O.+Mercado": {
+    "rating": 4.6,
+    "num_ratings": 21.0,
+    "would_take_again": 92.8571,
+    "difficulty": 3.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1678288"
+  },
+  "Pratima+Hebbar": {
+    "rating": 3.8,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2814470"
+  },
+  "Christopher+Ralston": {
+    "rating": 4.2,
+    "num_ratings": 31.0,
+    "would_take_again": 80.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1696244"
+  },
+  "Jonathan+L.+Larson": {
+    "rating": 3.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2910242"
+  },
+  "Marion+Tricoire": {
+    "rating": 4.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2946704"
+  },
+  "Leah+Perlmutter": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2947551"
+  },
+  "Chen+Chen": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2948142"
+  },
+  "Charlie+Curtsinger": {
+    "rating": 4.9,
+    "num_ratings": 8.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2103075"
+  },
+  "Tammy+Nyden": {
+    "rating": 4.5,
+    "num_ratings": 18.0,
+    "would_take_again": 88.8889,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=822926"
+  },
+  "Valerie+Benoist": {
+    "rating": 5.0,
+    "num_ratings": 30.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182219"
+  },
+  "Erik+Simpson": {
+    "rating": 4.9,
+    "num_ratings": 30.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=148080"
+  },
+  "Peter+Jacobson": {
+    "rating": 4.3,
+    "num_ratings": 21.0,
+    "would_take_again": 87.5,
+    "difficulty": 3.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=471067"
+  },
+  "Jennifer+Dobe": {
+    "rating": 3.8,
+    "num_ratings": 13.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=771231"
+  },
+  "Erin+Hurley": {
+    "rating": 5.0,
+    "num_ratings": 5.0,
+    "would_take_again": 100.0,
+    "difficulty": 1.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=394187"
+  },
+  "Renee+F.+Bourgeois+Parsons": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2371135"
+  },
+  "Elizabeth+Prevost": {
+    "rating": 4.4,
+    "num_ratings": 16.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=465150"
+  },
+  "Charlotte+Christensen": {
+    "rating": 4.1,
+    "num_ratings": 5.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1926538"
+  },
+  "Andrea+L.+Tracy": {
+    "rating": 3.3,
+    "num_ratings": 15.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1461543"
+  },
+  "Peter-Michael+Osera": {
+    "rating": 5.0,
+    "num_ratings": 12.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2063467"
+  },
+  "David+Lopatto": {
+    "rating": 3.8,
+    "num_ratings": 25.0,
+    "would_take_again": 75.0,
+    "difficulty": 2.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=124004"
+  },
+  "Vince+Eckhart": {
+    "rating": 3.5,
+    "num_ratings": 27.0,
+    "would_take_again": 75.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=230033"
+  },
+  "Logan+Lee": {
+    "rating": 5.0,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2184278"
+  },
+  "Gemma+Sala": {
+    "rating": 4.2,
+    "num_ratings": 21.0,
+    "would_take_again": 77.7778,
+    "difficulty": 3.7,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1248015"
+  },
+  "Leah+Claire+Allen": {
+    "rating": 4.8,
+    "num_ratings": 12.0,
+    "would_take_again": 88.8889,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2109497"
+  },
+  "John+Petrus": {
+    "rating": 4.5,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2309920"
+  },
+  "Christopher+P.+French": {
+    "rating": 4.3,
+    "num_ratings": 50.0,
+    "would_take_again": 73.3333,
+    "difficulty": 4.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=239927"
+  },
+  "Charles+Cunningham": {
+    "rating": 4.6,
+    "num_ratings": 17.0,
+    "would_take_again": 88.8889,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=364878"
+  },
+  "Mr.+H+Wayne+Moyer": {
+    "rating": 4.5,
+    "num_ratings": 44.0,
+    "would_take_again": 84.6154,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=70448"
+  },
+  "Viktoria+Poetzl": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2763797"
+  },
+  "Shonda+Kuiper": {
+    "rating": 3.6,
+    "num_ratings": 33.0,
+    "would_take_again": 33.3333,
+    "difficulty": 4.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=283774"
+  },
+  "Dr.+Mirzam+C.+Perez": {
+    "rating": 4.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 4.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2867272"
+  },
+  "Aguibou+B.+Sanou": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=3013873"
+  },
+  "Kristen+Burson": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=3006146"
+  },
+  "Vicki+Bentley-Condit": {
+    "rating": 3.0,
+    "num_ratings": 33.0,
+    "would_take_again": -1.0,
+    "difficulty": 4.2,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182786"
+  },
+  "Shuchi+Kapila": {
+    "rating": 4.0,
+    "num_ratings": 26.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=182790"
+  },
+  "Danya+Crites": {
+    "rating": 3.0,
+    "num_ratings": 2.0,
+    "would_take_again": 50.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2493504"
+  },
+  "Samuel+Rebelsky": {
+    "rating": 4.3,
+    "num_ratings": 58.0,
+    "would_take_again": 64.7059,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=148487"
+  },
+  "Xiao+Chen": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2979542"
+  },
+  "S.+Benjamin+Farrar": {
+    "rating": 4.8,
+    "num_ratings": 2.0,
+    "would_take_again": -1.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1848568"
+  },
+  "Idelle+A.+Cooper": {
+    "rating": 1.4,
+    "num_ratings": 3.0,
+    "would_take_again": -1.0,
+    "difficulty": 2.4,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2955261"
+  },
+  "Sarah+Purcell": {
+    "rating": 5.0,
+    "num_ratings": 25.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=204081"
+  },
+  "Lara+Janson": {
+    "rating": 3.9,
+    "num_ratings": 21.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2826989"
+  },
+  "Dan+Reynolds": {
+    "rating": 4.4,
+    "num_ratings": 24.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=213472"
+  },
+  "Deborah+L.+Michaels": {
+    "rating": 2.6,
+    "num_ratings": 5.0,
+    "would_take_again": 0.0,
+    "difficulty": 3.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1457420"
+  },
+  "I+Putu+Tangkas+A.+Hiranmayena": {
+    "rating": 5.0,
+    "num_ratings": 2.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2910542"
+  },
+  "Nadia+Vossoughi": {
+    "rating": 5.0,
+    "num_ratings": 5.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2946691"
+  },
+  "Maisha+Kamunde-Devonish": {
+    "rating": 3.1,
+    "num_ratings": 17.0,
+    "would_take_again": 50.0,
+    "difficulty": 4.1,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2309284"
+  },
+  "Ann+Ellis": {
+    "rating": 4.0,
+    "num_ratings": 26.0,
+    "would_take_again": 88.8889,
+    "difficulty": 3.3,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=307908"
+  },
+  "Na+Rim+Kim": {
+    "rating": 4.6,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 1.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2947907"
+  },
+  "Brigittine+French": {
+    "rating": 3.5,
+    "num_ratings": 29.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.7,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=324769"
+  },
+  "Dixuan+Yujing+Chen": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2819240"
+  },
+  "Christopher+M.+Conway": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2945608"
+  },
+  "Stephen+Sieck": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2032626"
+  },
+  "Pascal+Lafontant": {
+    "rating": 0.0,
+    "num_ratings": 0.0,
+    "would_take_again": -1.0,
+    "difficulty": 0.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2747038"
+  },
+  "Andrew+M.+Graham": {
+    "rating": 5.0,
+    "num_ratings": 1.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2801302"
+  },
+  "Leslie+Lyons": {
+    "rating": 2.0,
+    "num_ratings": 2.0,
+    "would_take_again": 0.0,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2665228"
+  },
+  "Nick+Phillips": {
+    "rating": 4.9,
+    "num_ratings": 11.0,
+    "would_take_again": 100.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2079917"
+  },
+  "Shubhashrita+Basu": {
+    "rating": 5.0,
+    "num_ratings": 6.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2967001"
+  },
+  "Eiren+Shea": {
+    "rating": 4.3,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2209807"
+  },
+  "Kathleen+Hurley": {
+    "rating": 4.5,
+    "num_ratings": 4.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=679211"
+  },
+  "Orestis+Papaioannou": {
+    "rating": 3.5,
+    "num_ratings": 12.0,
+    "would_take_again": 66.6667,
+    "difficulty": 2.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2472970"
+  },
+  "Ross+Haenfler": {
+    "rating": 5.0,
+    "num_ratings": 21.0,
+    "would_take_again": 89.4737,
+    "difficulty": 3.0,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2054979"
+  },
+  "Charvann+Bailey": {
+    "rating": 2.2,
+    "num_ratings": 4.0,
+    "would_take_again": 25.0,
+    "difficulty": 3.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2368948"
+  },
+  "Mr.+Hai-Dang+D.+Phan": {
+    "rating": 3.9,
+    "num_ratings": 8.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.6,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1798388"
+  },
+  "Maria+Carmen+Valentin+del+Barr": {
+    "rating": 3.3,
+    "num_ratings": 33.0,
+    "would_take_again": 60.0,
+    "difficulty": 4.5,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=322435"
+  },
+  "Mariko+Shigeta+Schimmel": {
+    "rating": 4.1,
+    "num_ratings": 15.0,
+    "would_take_again": 100.0,
+    "difficulty": 2.8,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1060329"
+  },
+  "A.+Royce+Wolf": {
+    "rating": 4.3,
+    "num_ratings": 47.0,
+    "would_take_again": 83.3333,
+    "difficulty": 2.9,
+    "link": "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=217007"
+  }
+}
